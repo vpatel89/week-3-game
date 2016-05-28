@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+}
+
+#game{
+	color: white;
+	font-size: 50px;
+}
+
+#movieTitle{
+	font-size: 100px;
+}
+
+#pressKey{
+	text-align: center;
+}
